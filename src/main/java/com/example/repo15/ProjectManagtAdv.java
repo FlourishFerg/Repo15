@@ -126,7 +126,7 @@ public class ProjectManagtAdv {
             pmTool.assignTask("T001", "Emily");
             pmTool.updateTaskStatus("T001", TaskStatus.IN_PROGRESS);
             pmTool.updateTimeSpent("T001", 3);
-            pmTool.addComment("T00
+            pmTool.addComment("T00)
 
         }
     }
