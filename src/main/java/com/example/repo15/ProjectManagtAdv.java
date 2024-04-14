@@ -1,7 +1,6 @@
 package com.example.repo15;
 
 public class ProjectManagtAdv {
-    import java.util.*;
 
     // Enum for task status
     enum TaskStatus {
